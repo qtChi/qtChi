@@ -2,7 +2,7 @@
 
 Tired senior cybersecurity student, security researcher, and developer focused on defensive security, threat detection, and vulnerability research.  
 
-Ive been explore the intersection of cybersecurity and AI, leveraging LLMs and modern machine learning to automate analysis, enrich threat intel, and accelerate research.  
+Ive been exploring the intersection of cybersecurity and AI, leveraging LLMs and modern machine learning to automate analysis, enrich threat intel, and accelerate research. 
 
 Sometimes ill build security tools, run enterprise-style lab environments, and participate in bug bounty programs on platforms like HackerOne and Bugcrowd to identify and responsibly disclose vulnerabilities.  
 
