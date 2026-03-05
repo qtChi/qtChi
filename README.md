@@ -1,12 +1,14 @@
-Senior cybersecurity student, security researcher, and developer focused on defensive security, threat detection, and vulnerability research
+# whois
 
-I build security tools, run enterprise-style lab environments, and participate in bug bounty programs to identify and responsibly disclose security vulnerabilities.
+Tired senior cybersecurity student, security researcher, and developer focused on defensive security, threat detection, and vulnerability research.  
 
-I also run a cybersecurity-focused X account with 20K+ followers where I share research, tools, and developments in the cybersecurity space.
+Sometimes ill build security tools, run enterprise-style lab environments, and participate in bug bounty programs on platforms like HackerOne and Bugcrowd to identify and responsibly disclose vulnerabilities.  
+
+I also run a cybersecurity-focused X account with 20K+ followers where I share research, tools, and developments in the cybersecurity space.  
 
 ---
 
-## Languages & Platforms
+## Languages & Platforms <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -38,7 +40,9 @@ I also run a cybersecurity-focused X account with 20K+ followers where I share r
   </a>
 </p>
 
-## Security Tools & Lab
+---
+
+## Security Tools & Lab <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 <p align="center">
   <a href="https://www.splunk.com/" target="_blank">
@@ -84,3 +88,25 @@ I also run a cybersecurity-focused X account with 20K+ followers where I share r
     <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-LabDevice-red?style=for-the-badge&logo=raspberry-pi&logoColor=white">
   </a>
 </p>
+
+---
+
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+    </a>
+    <br/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&layout=compact&theme=tokyonight" height="192px"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  <a href="https://github.com/nneji123">
+    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Recent%20Activity&theme=react-dark" />
+  </a>
+</details>
