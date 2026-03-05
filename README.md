@@ -2,13 +2,15 @@
 
 Tired senior cybersecurity student, security researcher, and developer focused on defensive security, threat detection, and vulnerability research.  
 
+Ive been explore the intersection of cybersecurity and AI, leveraging LLMs and modern machine learning to automate analysis, enrich threat intel, and accelerate research.  
+
 Sometimes ill build security tools, run enterprise-style lab environments, and participate in bug bounty programs on platforms like HackerOne and Bugcrowd to identify and responsibly disclose vulnerabilities.  
 
 I also run a cybersecurity-focused X account with 20K+ followers where I share research, tools, and developments in the cybersecurity space.  
 
 ---
 
-## Languages & Platforms <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+## Languages, AI & Platforms <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -37,6 +39,22 @@ I also run a cybersecurity-focused X account with 20K+ followers where I share r
   </a>
   <a href="https://www.apple.com/macos/" target="_blank">
     <img alt="macOS" src="https://img.shields.io/badge/macOS-Monterey-lightgrey?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
+  <!-- AI / LLM & ML Badges -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white">
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-AI-blue?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://ollama.com/" target="_blank">
+    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-LLM-purple?style=for-the-badge&logoColor=white">
   </a>
 </p>
 
@@ -89,24 +107,3 @@ I also run a cybersecurity-focused X account with 20K+ followers where I share r
   </a>
 </p>
 
----
-
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
-    </a>
-    <br/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&layout=compact&theme=tokyonight" height="192px"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/nneji123">
-    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Recent%20Activity&theme=react-dark" />
-  </a>
-</details>
