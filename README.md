@@ -10,9 +10,10 @@ I also run a cybersecurity-focused X account with 20K+ followers where I share r
 
 ---
 
-## Languages, AI & Platforms <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+## Languages, Platforms, AI & APIs <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
 
 <p align="center">
+  <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white">
   </a>
@@ -31,6 +32,8 @@ I also run a cybersecurity-focused X account with 20K+ followers where I share r
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
     <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-7-blue?style=for-the-badge&logo=powershell&logoColor=white">
   </a>
+
+  <!-- OS -->
   <a href="https://www.linux.org/" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=linux&logoColor=white">
   </a>
@@ -40,7 +43,25 @@ I also run a cybersecurity-focused X account with 20K+ followers where I share r
   <a href="https://www.apple.com/macos/" target="_blank">
     <img alt="macOS" src="https://img.shields.io/badge/macOS-Monterey-lightgrey?style=for-the-badge&logo=apple&logoColor=white">
   </a>
-  <!-- AI / LLM & ML Badges -->
+
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
+
+  <!-- AI/ML/LLM Tools -->
+  <a href="https://numpy.org/" target="_blank">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
   <a href="https://pytorch.org/" target="_blank">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   </a>
@@ -48,13 +69,21 @@ I also run a cybersecurity-focused X account with 20K+ followers where I share r
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
   <a href="https://huggingface.co/" target="_blank">
-    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-F59300?style=for-the-badge&logo=huggingface&logoColor=white">
   </a>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-AI-blue?style=for-the-badge&logoColor=white">
+  <a href="https://openai.com/" target="_blank">
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
   </a>
-  <a href="https://ollama.com/" target="_blank">
-    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-LLM-purple?style=for-the-badge&logoColor=white">
+  <a href="https://www.ollama.com/" target="_blank">
+    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-7D3C98?style=for-the-badge&logo=ollama&logoColor=white">
+  </a>
+
+  <!-- API / Endpoint Tools -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </a>
 </p>
 
